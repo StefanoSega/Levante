@@ -1,0 +1,64 @@
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\obj\Debug\LevanteTestMVC.csprojResolveAssemblyReference.cache
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\LevanteTestMVC.dll.config
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\LevanteTestMVC.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\LevanteTestMVC.pdb
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\Levante.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\Microsoft.Web.Infrastructure.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\Newtonsoft.Json.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\System.Net.Http.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\System.Net.Http.WebRequest.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\System.Web.Helpers.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\System.Web.Mvc.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\System.Web.Razor.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\System.Web.WebPages.Deployment.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\System.Web.WebPages.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\System.Web.WebPages.Razor.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\Levante.pdb
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\Newtonsoft.Json.xml
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\System.Web.Helpers.xml
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\System.Web.Mvc.xml
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\System.Web.Razor.xml
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\System.Web.WebPages.xml
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\System.Web.WebPages.Deployment.xml
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\System.Web.WebPages.Razor.xml
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\it\System.Web.Helpers.resources.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\it\System.Web.Mvc.resources.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\it\System.Web.Razor.resources.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\it\System.Web.WebPages.resources.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\it\System.Web.WebPages.Deployment.resources.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\bin\it\System.Web.WebPages.Razor.resources.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\obj\Debug\LevanteTestMVC.dll
+c:\Users\Stefano\documents\visual studio 2013\Projects\Levante\LevanteTestMVC\obj\Debug\LevanteTestMVC.pdb
+C:\Projects\Enerj\Levante\LevanteTestMVC\obj\Debug\LevanteTestMVC.csprojResolveAssemblyReference.cache
+C:\Projects\Enerj\Levante\LevanteTestMVC\obj\Debug\LevanteTestMVC.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\LevanteTestMVC.dll.config
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\LevanteTestMVC.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\LevanteTestMVC.pdb
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\Levante.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\Microsoft.Web.Mvc.FixedDisplayModes.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\Newtonsoft.Json.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\System.Net.Http.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\System.Net.Http.WebRequest.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\System.Web.Helpers.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\System.Web.Mvc.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\System.Web.Razor.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\System.Web.WebPages.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\System.Web.WebPages.Razor.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\Levante.pdb
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\Newtonsoft.Json.xml
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\System.Web.Helpers.xml
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\System.Web.Mvc.xml
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\System.Web.Razor.xml
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\System.Web.WebPages.xml
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\System.Web.WebPages.Razor.xml
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\it\System.Web.Helpers.resources.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\it\System.Web.Mvc.resources.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\it\System.Web.Razor.resources.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\it\System.Web.WebPages.resources.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\it\System.Web.WebPages.Deployment.resources.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\bin\it\System.Web.WebPages.Razor.resources.dll
+C:\Projects\Enerj\Levante\LevanteTestMVC\obj\Debug\LevanteTestMVC.pdb
